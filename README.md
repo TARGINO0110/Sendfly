@@ -31,7 +31,7 @@ description: Microservice sending email with SendGrid
 
 </div>
 
-Proximo passo vamos precisar criar a pasta Models com subpasta Auth e Mail adicionando os seguintes arquivos .cs:
+Próximo passo vamos precisar criar a pasta Models com subpasta Auth e Mail adicionando os seguintes arquivos .cs:
 
 ### Models/Auth
 
@@ -132,7 +132,7 @@ namespace Sendfly.Models.Mail
 
 <figure><img src=".gitbook/assets/chrome_IvQ1r1d0iu.png" alt=""><figcaption></figcaption></figure>
 
-#### # Cretifique-se de chegar nessa tela _Settings/Account Details_ com os campos preenchidos de seu _Your Account e Your Company_
+#### # Certifique-se de chegar nessa tela _Settings/Account Details_ com os campos preenchidos de seu _Your Account e Your Company_
 
 <figure><img src=".gitbook/assets/chrome_EbiZGL2VRK.png" alt=""><figcaption></figcaption></figure>
 
@@ -146,7 +146,7 @@ namespace Sendfly.Models.Mail
 
 <figure><img src=".gitbook/assets/chrome_jrVqTQIBEW.png" alt=""><figcaption></figcaption></figure>
 
-#### # Prosseguimos com a criação de dois  Templates de e-mail  sendo um para o Cliente recebendo e-mail automatico e outra com uma copia do envio para o  CEO responsável pelo site, nessa etapa como regra de criação você irá possuir ID's de cada template onde será utilizado em seguida no código do projeto.&#x20;
+#### # Prosseguimos com a criação de dois  Templates de e-mail  sendo um para o Cliente recebendo e-mail automático e outra com uma copia do envio para o  CEO responsável pelo site, nessa etapa como regra de criação você irá possuir ID's de cada template onde será utilizado em seguida no código do projeto.&#x20;
 
 <figure><img src=".gitbook/assets/chrome_Mr3ydlwvEd.png" alt=""><figcaption></figcaption></figure>
 
@@ -651,4 +651,4 @@ app.Run();
 
 ```
 
-Conclusão: Neste projeto podemos aprimorar praticas de uso de serviço de email SendGrid para ser aplicados em sistemas web integrado com microserviço de e-mail, utilizando tecnologias .NET em sua nova versão 7.0 com Minimal API's, aplicando tambem o uso de segurança para autenticação de usuário com JWT Token. Diante desta colaboração espero que todos possam aproveitar o maximo do conteúdo apresentado, até breve !
+Conclusão: Neste projeto podemos aprimorar práticas de uso de serviço de email SendGrid para serem aplicados em sistemas web integrado com microserviço de e-mail, utilizando tecnologias .NET em sua nova versão 7.0 com Minimal API's, aplicando tambem o uso de segurança para autenticação de usuário com JWT Token. Diante desta colaboração espero que todos possam aproveitar o máximo do conteúdo apresentado, até breve !
